@@ -9,8 +9,8 @@ const ms = require('ms');  //WESO#0001
 const prefix = '-'
 
 client.on('message', msg => {  //WESO#0001
-    if (msg.content === 'باك') {  //WESO#0001
-      msg.reply('** :wink: وِلِـكُمِـ ﻧَوِرُتْ   :sparkling_heart:**');  //WESO#0001
+    if (msg.content === 'باي') {  //WESO#0001
+      msg.reply('** :wink: مع السلامة   :sparkling_heart:**');  //WESO#0001
     }
   });
 
